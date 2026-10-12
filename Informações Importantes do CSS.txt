@@ -1,0 +1,10 @@
+body{
+backgroundColor #0c1014
+color white
+width 90%
+max-width 960px
+font-family gill sans}
+
+
+primeiro-header{
+backgroud-color: #05080a;
