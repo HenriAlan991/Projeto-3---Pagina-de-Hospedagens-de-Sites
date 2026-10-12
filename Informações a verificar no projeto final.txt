@@ -5,4 +5,3 @@ final, aparenta ser uma cor levemente mais clara.
 
 NOME DOS PLANOS - APARENTA TER UMA FONTE DIFERENTE TAMBEM VERIFICA
 
-No preço dos planos, no projeto final o Preço fica maior e o /mes fica menor, isso ok, entretanto devido ao align-item center que colocamos os elementos estão ficando um do lado do outro, quando deveria ficar levemente pra baixo ate pensei em usar position, mas provavlemente vai dar erro.
