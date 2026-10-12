@@ -1,5 +1,6 @@
 cor dos amarelos. No projeto foi usada yellow, entretanto no projeto
 final, aparenta ser uma cor levemente mais clara.
 
-MAIN_HEADER - H2: Verificar como esticar o texto pois a fonte está diferente
-da do projeto final do video
+
+
+NOME DOS PLANOS - APARENTA TER UMA FONTE DIFERENTE TAMBEM VERIFICA
