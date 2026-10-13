@@ -1,1 +1,1 @@
-Devemos utilizar tags semânticas de agrupamentos no projeto.
+
